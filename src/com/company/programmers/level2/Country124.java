@@ -1,4 +1,4 @@
-package com.company.level2;
+package com.company.programmers.level2;
 
 public class Country124 {
 

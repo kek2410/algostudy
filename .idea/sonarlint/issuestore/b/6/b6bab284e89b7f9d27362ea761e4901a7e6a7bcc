@@ -1,0 +1,8 @@
+
+P
+java:S1854,"5Remove this useless assignment to local variable "a".(çà«úÿÿÿÿ
+A
+java:S1481,"&Remove this unused "a" local variable.(çà«úÿÿÿÿ
+V	java:S125-"<This block of commented-out lines of code should be removed.(¥²Öîşÿÿÿÿ
+^
+java:S4973D"<Strings and Boxed types should be compared using "equals()".(¨®¥¼üÿÿÿÿ8æ¸¶ˆü/

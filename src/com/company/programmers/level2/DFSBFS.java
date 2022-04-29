@@ -1,4 +1,4 @@
-package com.company.level2;
+package com.company.programmers.level2;
 
 import java.util.Iterator;
 import java.util.LinkedList;

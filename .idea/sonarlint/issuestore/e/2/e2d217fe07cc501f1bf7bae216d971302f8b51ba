@@ -1,0 +1,7 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Æ˝·Î˚ˇˇˇˇ
+k
+java:S1149#"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(—÷ŸÉ˝ˇˇˇˇ
+U	java:S1063"9Replace this use of System.out or System.err by a logger.(–ÜÔä8ÉùòÍ≤/
+T
+java:S11555">Use isEmpty() to check whether the collection is empty or not.(Ä§¡Ó

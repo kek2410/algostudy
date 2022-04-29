@@ -1,0 +1,12 @@
+
+V	java:S125"<This block of commented-out lines of code should be removed.(ñ¨İùÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ê±ûµ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(æ¨¤šøÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(ƒ«Éıÿÿÿÿ
+S	java:S106="9Replace this use of System.out or System.err by a logger.(’Ñğ™ûÿÿÿÿ
+M	java:S106?"9Replace this use of System.out or System.err by a logger.(Ä…
+V	java:S125V"<This block of commented-out lines of code should be removed.(®ªƒ·ÿÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·§ô³
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·§ô³
+k	java:S117-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÙ´õÿÿÿÿÿ
+k	java:S117U"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê¸¦ıÿÿÿÿ
